@@ -1,8 +1,6 @@
- 
-Flask==1.1.2
+Flask==2.2
 flask-marshmallow==0.14.0
-Flask-SQLAlchemy==2.5.1
+Flask-SQLAlchemy==3.0.3
 greenlet==1.0.0
 marshmallow==3.11.1
 SQLAlchemy==1.4.7
- 
