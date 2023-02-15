@@ -18,10 +18,12 @@ pip install flask
 
 6 This will start the server at port 5000 by default
 
+7 Create a data base which is used to store the data 
+It is present in the instances folder
 
 
 
-7 By connecting the local terminal to postman we can perform CRUD operations as follows
+8 After that By connecting the local terminal to postman we can perform CRUD operations as follows
 
 # GET request
 Shows all the requests made by the user
