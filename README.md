@@ -1,4 +1,4 @@
-# flask-todlist
+# flask-todolist
 
 The REST API of To do list Application made by PYTHON AND FLASK
 
